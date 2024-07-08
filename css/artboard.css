@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+@charset "utf-8";
+/* CSS Document */
+
+.artboard{
+	position: relative;
+	margin: auto;
+}
+.page{
+	overflow:hidden;/*все, что выходит за границы этого блока, маскируется*/
+}
+article{
+	margin-bottom:25px;
+}
+.template{
+	color:black;
+	padding-bottom:15px;
+}
+.template a{
+	color: black;
+	text-decoration:none;
+	padding-right:45px;
+}
+.template a:hover{
+	text-decoration:underline;
+}
+body{
+	margin-top:25px;
+}
+.h_template{
+	font-size:1em;
+	font-weight:normal;
+}
+
+
+
+
+.one{
+	background-image: url("images/znak1.png");
+}
+.two{
+	background-image: url("images/znak2.png");
+}
+.three{
+	background-image: url("images/znak3.png");
+}
+.four{
+	background-image: url("images/znak4.png");
+}
+.five{
+	background-image: url("images/znak5.png");
+}
+.six{
+	background-image: url("images/znak6.png");
+}
+.seven{
+	background-image: url("images/znak7.png");
+}
+.eight{
+	background-image: url("images/znak8.png");
+}
+.nine{
+	background-image: url("images/znak9.png");
+}
+.ten{
+	background-image: url("images/znak10.png");
+}
+.eleven{
+	background-image: url("images/znak11.png");
+}
+.twelve{
+	background-image: url("images/znak12.png");
+}
+.thirteen{
+	background-image: url("images/znak13.png");
+}
+.fourteen{
+	background-image: url("images/znak14.png");
+}
+.fiveteen{
+	background-image: url("images/znak15.png");
+}
+.sixteen{
+	background-image: url("images/znak16.png");
+}
+
+
